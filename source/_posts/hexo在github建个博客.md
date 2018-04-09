@@ -1,5 +1,5 @@
 ---
-title: 怎么建个博客
+title: hexo在github建个博客
 date: 2018-03-09 10:15:42
 tags: 记录
 ---
