@@ -8,7 +8,7 @@ tags:
 
 ### MobX  
 简单、可扩展的状态管理  
-
+<!--more-->
 * 安装：`npm install mobx --save` 。 React绑定库： ` npm install mobx-react --save`。要启用ESNext的装饰器（可选），参见下面。  
 * CDN
 * [https://unpkg.com/mobx/lib/mobx.umd.js](https://unpkg.com/mobx/lib/mobx.umd.js)  
