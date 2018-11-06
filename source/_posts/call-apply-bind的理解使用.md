@@ -9,7 +9,7 @@ call(),方法调用一个函数，改变函数中this的指向，和提供参数
 
 call方法的作用和apply方法类似，只有一个区别，就是call()方法接受的是若干个参数的列表，而apply()方法接受的是一个包含多个参数的数组。
 
-###语法
+### 语法
 
 ```Javascript
 fun.call(thisArg, arg1, arg2, ...)

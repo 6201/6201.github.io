@@ -34,12 +34,15 @@ Hexo是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
 ` $ hexo generate `   
 
 可简写为  
-` $ hexo g ` 
+```shell
+$ hexo g
+$ hexo d -g / hexo g -d
+```
 
-| 选项 | 描述 |  
-| -----| ----- |  
-| -d,--deploy | 文件生成后立即部署网站 |  
-|-w,--watch | 监视文件变动 |  
+| 选项 | 描述 |
+| -----| ----- |
+| -d,--deploy | 文件生成后立即部署网站 |
+|-w,--watch | 监视文件变动 |
 
 #### publish  
 ` $ hexo publish [layout] \<filename> ` 
@@ -52,10 +55,9 @@ Hexo是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（�
  `$ npm install hexo-server --save`  
 
 启动服务器。默认情况下，访问网址为： http://localhost:4000/
- 
-| 选项 | 描述 |  
-| -----| ----- |  
-| -p,--port | 重设端口 |  
-|-s,--static | 只使用静态文件 |  
-| -l,--log | 启动日记记录，使用覆盖记录格式 |  
- 
+
+| 选项 | 描述 |
+| -----| ----- |
+| -p,--port | 重设端口 |
+|-s,--static | 只使用静态文件 |
+| -l,--log | 启动日记记录，使用覆盖记录格式 |
