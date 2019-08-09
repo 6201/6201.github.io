@@ -4,6 +4,7 @@ date: 2018-04-03 23:54:05
 tags:  
 - 记录  
 - mobx
+categories: 编程
 ---
 
 ### MobX  

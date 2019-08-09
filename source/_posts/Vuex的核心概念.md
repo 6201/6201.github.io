@@ -2,7 +2,7 @@
 title: Vuex的核心概念
 date: 2018-06-27 17:36:20
 tags: 学习
-categories: Vuex
+categories: 编程
 ---
 
 Vuex是一个专为Vue.js应用程序开发的**状态管理模式**。

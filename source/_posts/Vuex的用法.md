@@ -2,7 +2,7 @@
 title: Vuex的用法
 date: 2018-08-27 11:13:10
 tags: 总结
-categories: Vuex
+categories: 编程
 ---
 
 ```js

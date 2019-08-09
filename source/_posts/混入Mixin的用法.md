@@ -3,7 +3,7 @@ layout: vue
 title: 混入Mixin的用法
 date: 2018-08-30 10:38:26
 tags: 记录
-categories: Vue
+categories: 编程
 ---
 
 

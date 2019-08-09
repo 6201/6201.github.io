@@ -1,8 +1,8 @@
 ---
 title: 介绍Typora，一款markdown编辑器
 date: 2018-04-24 14:37:48
-tags: 工具
-categories: Typora
+tags: Typora
+categories: 工具
 ---
 
 ​	现在有很多软件（如vscode、Leanote、DayOne、为知笔记、Simplenote、Atom、EverEdit）或网站（如Github、维基、简书）都已支持Markdown语法了。很多下载回来的软件说明也是.md或.markdown格式的文本文档，不管你是想要写作还是阅读，都需要一个简单好用的Markdown编辑器/阅读器。

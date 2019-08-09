@@ -2,7 +2,7 @@
 title: Vscode中使用ExperimentalDecorators报错
 date: 2018-04-21 13:59:50
 tags: 记录
-categories: vscode
+categories: 编程
 ---
 vscode中使用es7的新语法decorator（装饰器）会报错，如图：  
 ![error](Vscode中使用ExperimentalDecorators报错/error.png)  

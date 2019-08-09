@@ -2,7 +2,7 @@
 title: Require.js以及AMD规范
 date: 2018-05-15 10:50:07
 tags: 学习
-categories: require.js
+categories: 编程
 ---
 
 ### 概述

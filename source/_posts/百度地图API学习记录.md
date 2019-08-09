@@ -2,7 +2,7 @@
 title: 百度地图API学习记录
 date: 2018-08-27 10:58:25
 tags: 记录
-categories: 百度地图
+categories: 编程
 ---
 
 ### 百度地图的API

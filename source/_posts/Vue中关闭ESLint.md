@@ -2,9 +2,7 @@
 title: Vue中关闭ESLint
 date: 2018-07-05 10:00:51
 tags: 记录
-categories: 
-- Vue 
-- ESLint
+categories: 编程
 ---
 
 build文件夹下webpack.base.conf.js文件中，找到

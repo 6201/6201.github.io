@@ -2,8 +2,7 @@
 title: element-ui自定义主题
 date: 2018-07-05 10:12:00
 tags: 学习
-categories: 
-- Element-ui
+categories: 编程
 ---
 
 #### Element-ui自定义主题
