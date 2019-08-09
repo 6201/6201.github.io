@@ -1,7 +1,8 @@
 ---
 title: hexo文档[一]
 date: 2018-04-03 17:10:38
-tags: 记录  
+tags: 记录
+categories: 博客
 ---
 
 ### 什么是Hexo？ 

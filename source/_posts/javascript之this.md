@@ -2,7 +2,7 @@
 title: javascript之this
 date: 2018-04-28 10:37:19
 tags: 记录
-categories: this
+categories: 编程
 ---
 
 学习javascript时有时候会困惑于this的用法，会指向意外的对象。主要还是理解不够透彻导致的！

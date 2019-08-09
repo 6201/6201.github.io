@@ -2,7 +2,7 @@
 title: 'call,apply的理解使用'
 date: 2018-05-17 13:33:08
 tags: 学习
-categories: call apply
+categories: 编程
 ---
 
 call(),方法调用一个函数，改变函数中this的指向，和提供参数。

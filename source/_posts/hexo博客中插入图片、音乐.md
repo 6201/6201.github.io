@@ -2,7 +2,7 @@
 title: hexo博客中插入图片、音乐
 date: 2018-04-20 13:00:01
 tags: 记录
-categories: hexo
+categories: 博客
 ---
 ### 1.前言  
   用hexo+github pages作个人博客正的是很好很方便很便宜。可以使用markdown直接在本地写好文章，再使用hexo g -d 直接发布。而且hexo还有一些标签插件语法，丰富了markdown生成html后的效果。

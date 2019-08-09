@@ -2,7 +2,7 @@
 title: css3动画
 date: 2018-04-21 15:30:29
 tags: 记录
-categories: css3
+categories: 编程
 ---
 
 css3中，我们可以创建动画，它可以取代许多网页动画图像，Flash动画，和Javascript。  
