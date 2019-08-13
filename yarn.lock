@@ -1569,17 +1569,17 @@ hexo-renderer-marked@^0.3.0:
     object-assign "^4.1.1"
     strip-indent "^2.0.0"
 
-hexo-renderer-pug@0.0.5:
+hexo-renderer-pug@^0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/hexo-renderer-pug/-/hexo-renderer-pug-0.0.5.tgz#134031fb958321c4e7dfbd862e67b9781a11e03d"
   integrity sha1-E0Ax+5WDIcTn372GLme5eBoR4D0=
   dependencies:
     pug "2.0.0-alpha1"
 
-hexo-renderer-sass@^0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/hexo-renderer-sass/-/hexo-renderer-sass-0.3.2.tgz#d93106a788d4090a41890c039adbae40c7c89382"
-  integrity sha512-0TFXrqxQftLLtmANwQJ3yS97PJa3AaAjSN4cDS2rRXM0yvnZIB9i1pDbFdZi9QusNnVAUMxsLjrFMiz/M5v0Xg==
+hexo-renderer-sass@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/hexo-renderer-sass/-/hexo-renderer-sass-0.4.0.tgz#d885a04df93e70fdb4ba107505e6b8093c1a5d87"
+  integrity sha512-goQ/r8J/2s5XnIp+dSDwWgaxHl6h/VVEsp95Jr/+sYqFfXHXDIC4evC+V1to9ezfQwOS//ZZFQptTZIKTuh8Lg==
   dependencies:
     node-sass "^4.5.3"
 
@@ -1591,7 +1591,7 @@ hexo-renderer-stylus@^0.3.1:
     nib "^1.1.2"
     stylus "^0.54.5"
 
-hexo-server@^0.2.0:
+hexo-server@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/hexo-server/-/hexo-server-0.2.2.tgz#592686b554b8bfe09a19bc86c0f003ac3e8c19b9"
   integrity sha512-/KkOYMIGylNoMtnlgas84Kw18A60WU3BVfo8ZnTHy8omCsAz2Z+aK6ddR4PpSmTdLeKDsiZj4ZSg86ZQ+FZzrA==
