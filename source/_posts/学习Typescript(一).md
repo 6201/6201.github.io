@@ -130,7 +130,7 @@ function infiniteLoop(): never {
 
 ```
 
-##  与 `void` 的差异
+#####  与 `void` 的差异
 
 一旦有人告诉你，`never` 表示一个从来不会优雅的返回的函数时，你可能马上就会想到与此类似的 `void`，然而实际上，`void` 表示没有任何类型，`never` 表示永远不存在的值的类型。
 
@@ -139,3 +139,11 @@ function infiniteLoop(): never {
 ###### Object
 
 就和js的Object没啥区别
+
+
+
+
+
+#### Tips:
+
+我使用vscode作为编辑器，有个插件叫做**Code Runner**能够直接在vscode中运行代码片段，非常方便。不过对于typescript还需要安装ts-node，使用npm安装一哈就好了。
