@@ -1,7 +1,7 @@
 ---
 title: 介绍Typora，一款markdown编辑器
 date: 2018-04-24 14:37:48
-tags: Typora
+tags: 记录
 categories: 工具
 ---
 
