@@ -11,11 +11,11 @@ sentry后台管理页面可以使用官方版（需要付费），也可以自�
 
 1.新建组织、新建项目。
 
-![](Vue-cli项目中引入sentry/1284F30E-205E-4CB4-A88F-1FDC06EAE8B6.png)
+![](/images/1284F30E-205E-4CB4-A88F-1FDC06EAE8B6.png)
 
 2.生成客户端密钥。
 
-![](Vue-cli项目中引入sentry/205B1300-4B2C-45E4-8583-BA46F0462CE2.png)
+![](/images/205B1300-4B2C-45E4-8583-BA46F0462CE2.png)
 
 3.vue-cli项目中：
 
@@ -96,9 +96,9 @@ module.exports = {
 
 最后可以在管理页面中看到上报的事件：
 
-![](Vue-cli项目中引入sentry/ECB8D8DB-61B4-4C4F-88C6-19ECC88B7CE2.png)
+![](/images/ECB8D8DB-61B4-4C4F-88C6-19ECC88B7CE2.png)
 
-![](Vue-cli项目中引入sentry/7009E16C-66D1-4FEC-8EDD-C4D6A064C300.png)
+![](/images/7009E16C-66D1-4FEC-8EDD-C4D6A064C300.png)
 
 上传了source-map后可以准确的定位到错误产生的那一行，这里是为了测试使用了未定义的变量a。
 

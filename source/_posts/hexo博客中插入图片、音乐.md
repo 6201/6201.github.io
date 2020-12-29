@@ -6,14 +6,14 @@ categories: 博客
 ---
 ### 1.前言  
   用hexo+github pages作个人博客正的是很好很方便很便宜。可以使用markdown直接在本地写好文章，再使用hexo g -d 直接发布。而且hexo还有一些标签插件语法，丰富了markdown生成html后的效果。
-  
+
 ### 2.标签插件  
 标签插件有许多，今天要用到的是：  
 ##### iframe  
 在文章中插入 iframe。 
- 
+
 `{ % iframe url [width] [height] % }`
- 
+
 ##### Image  
 在文章中插入指定大小的图片。
 
@@ -23,8 +23,8 @@ categories: 博客
 iframe标签插件用处可大了，所有浏览器都支持`iframe`标签，iframe元素会创建包含另外一个文档的内联框架。而一般的视屏网站、音乐网站等都有分享iframe标签的选项，例如： 
 
 \!\[youku的分享选项](hexo博客中插入图片、音乐/youku.png):
-![youku的分享选项](hexo博客中插入图片、音乐/youku.png) 
-  
+![youku的分享选项](/images/youku.png) 
+
 
 其中iframe的内容为： 
 	`<iframe height=498 width=510 src='http://player.youku.com/embed/XMzQyODk1NjMyMA==' frameborder=0 'allowfullscreen'></iframe>`

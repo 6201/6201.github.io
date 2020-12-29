@@ -84,7 +84,7 @@ div {
 [示例](https://jsfiddle.net/caogu/5dm7ptL0/9/)可以看看动画的效果！  
 
 ### CSS3的动画属性  
-![属性截图](css3动画/animation属性.png)
+![属性截图](/images/animation属性.png)
 
 
 

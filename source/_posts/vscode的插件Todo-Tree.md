@@ -40,5 +40,5 @@ categories: 工具
 
 效果：
 
-![](vscode的插件Todo-Tree/result.png)
+![](/images/result.png)
 
