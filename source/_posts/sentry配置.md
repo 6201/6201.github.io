@@ -5,6 +5,8 @@ tags: 记录
 categories: 编程
 ---
 
+Sentry意思是哨兵，是一个开源的提供应用监控的一个平台，可以帮助我们获取应用在运行时出现的问题，可以使用平台集成的SaaS服务，也可以自己搭建服务。
+
 我们的项目使用react+umi+dev 配置sentry基本参考react+webpack就可以了。
 
 在项目中引入'@sentry/webpack-plugin'、'umi-plugin-react'、'umi-plugin-react'
